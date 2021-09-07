@@ -1,4 +1,3 @@
-# Configuration Instructions:
-### To evaluate the project on the console, run PipelineMain.java in a simple Eclipse IDE.
-### To evaluate the project via the graphical user interface you need to install an Apache Tomcat Server version 7 or above and Eclipse EE (Enterprise Edition). 
-### Once this is fulfilled, run the GUI.java servlet with "Run on Server".
+### The PDF files offer an overview of the entire NLP system.
+### "deployed.war" is the already compiled servlet application that can be deployed on an host server.
+### If you don't want to reverse engineer the ".war" file :) please visit my other repository: https://github.com/spidy1/NLP_FinalProject  The plain Java code is available there.
